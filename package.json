@@ -1,0 +1,19 @@
+{
+  "name": "my-node-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server using Express",
+  "main": "app.js",
+  "type": "module",  
+  "scripts": {
+    "start": "node app.js"  
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
